@@ -1,0 +1,9 @@
+pandas==2.2.2
+SQLAlchemy==2.0.32
+psycopg2 == 2.9.10
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+PyPDF2==3.0.1
+cryptography==43.0.1
+requests==2.32.3
+PyMuPDF==1.25.2

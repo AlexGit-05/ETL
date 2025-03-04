@@ -1,0 +1,226 @@
+2024-12-09 11:35:31,074 - INFO - Starting gazette scraper script
+2024-12-09 11:35:31,074 - INFO - Starting upload_notice process
+2024-12-09 11:35:31,102 - INFO - Starting gazette scraping process
+2024-12-09 11:35:34,600 - INFO - Successfully scraped gazette data for date: 2024-12-06 00:00:00
+2024-12-09 11:35:34,600 - INFO - New gazette found for date: 2024-12-06 00:00:00
+2024-12-09 11:35:34,600 - INFO - Attempting to send email notification
+2024-12-09 11:35:36,850 - INFO - Email sent successfully
+2024-12-09 11:35:36,890 - INFO - Successfully uploaded new gazette to database
+2024-12-09 11:35:36,890 - INFO - Script completed successfully
+2024-12-09 11:50:30,376 - INFO - Starting gazette scraper script
+2024-12-09 11:50:30,376 - INFO - Starting upload_notice process
+2024-12-09 11:50:30,396 - INFO - Starting gazette scraping process
+2024-12-09 11:50:34,045 - INFO - Successfully scraped gazette data for date: 2024-12-06 00:00:00
+2024-12-09 11:50:34,048 - INFO - New gazette found for date: 2024-12-06 00:00:00
+2024-12-09 11:50:34,051 - INFO - Attempting to send email notification
+2024-12-09 11:50:36,153 - INFO - Email sent successfully
+2024-12-09 11:50:36,178 - INFO - Successfully uploaded new gazette to database
+2024-12-09 11:50:36,178 - INFO - Script completed successfully
+2025-02-05 11:14:20,170 - INFO - Starting gazette scraper script
+2025-02-05 11:14:20,170 - INFO - Starting upload_notice process
+2025-02-05 11:14:20,208 - INFO - Starting gazette scraping process
+2025-02-05 11:14:24,972 - INFO - Successfully scraped gazette data for date: 2025-01-31 00:00:00
+2025-02-05 11:14:24,979 - INFO - New gazette found for date: 2025-01-31 00:00:00
+2025-02-05 11:14:24,992 - INFO - Attempting to send email notification
+2025-02-05 11:14:27,683 - INFO - Email sent successfully
+2025-02-05 11:14:27,683 - INFO - Starting gazette scraping process
+2025-02-05 11:14:32,053 - INFO - Successfully scraped gazette data for date: 2025-01-31 00:00:00
+2025-02-05 11:14:32,077 - INFO - Successfully uploaded new gazette to database
+2025-02-05 11:14:32,077 - INFO - Script completed successfully
+2025-02-05 13:00:44,655 - INFO - Starting gazette scraper script
+2025-02-05 13:00:44,655 - INFO - Starting upload_notice process
+2025-02-05 13:00:44,761 - INFO - Starting gazette scraping process
+2025-02-05 13:00:50,416 - INFO - Successfully scraped gazette data for date: 2025-01-31 00:00:00
+2025-02-05 13:00:50,427 - INFO - New gazette found for date: 2025-01-31 00:00:00
+2025-02-05 13:00:50,443 - INFO - Attempting to send email notification
+2025-02-05 13:00:52,913 - INFO - Highlighted PDF attached to email
+2025-02-05 13:01:01,719 - INFO - Email sent successfully
+2025-02-05 13:01:01,719 - INFO - Cleaned up highlighted PDF file
+2025-02-05 13:01:01,719 - INFO - Starting gazette scraping process
+2025-02-05 13:01:07,480 - INFO - Successfully scraped gazette data for date: 2025-01-31 00:00:00
+2025-02-05 13:01:07,545 - INFO - Successfully uploaded new gazette to database
+2025-02-05 13:01:07,545 - INFO - Script completed successfully
+2025-02-06 07:41:39,665 - INFO - Starting gazette scraper script
+2025-02-06 07:41:39,665 - INFO - Starting upload_notice process
+2025-02-06 07:41:39,702 - INFO - Starting gazette scraping process
+2025-02-06 07:41:48,883 - INFO - Successfully scraped gazette data for date: 2025-01-31 00:00:00
+2025-02-06 07:41:48,892 - INFO - New gazette found for date: 2025-01-31 00:00:00
+2025-02-06 07:41:48,908 - INFO - Attempting to send email notification
+2025-02-06 07:41:52,753 - INFO - Highlighted PDF attached to email
+2025-02-06 07:42:01,320 - INFO - Email sent successfully
+2025-02-06 07:42:01,324 - INFO - Cleaned up highlighted PDF file
+2025-02-06 07:42:01,324 - INFO - Starting gazette scraping process
+2025-02-06 07:42:07,064 - INFO - Successfully scraped gazette data for date: 2025-01-31 00:00:00
+2025-02-06 07:42:07,103 - INFO - Successfully uploaded new gazette to database
+2025-02-06 07:42:07,104 - INFO - Script completed successfully
+2025-02-06 07:43:22,858 - INFO - Starting gazette scraper script
+2025-02-06 07:43:22,858 - INFO - Starting upload_notice process
+2025-02-06 07:43:22,889 - INFO - Starting gazette scraping process
+2025-02-06 07:43:30,651 - INFO - Successfully scraped gazette data for date: 2025-01-31 00:00:00
+2025-02-06 07:43:30,656 - INFO - New gazette found for date: 2025-01-31 00:00:00
+2025-02-06 07:43:30,664 - INFO - Attempting to send email notification
+2025-02-06 07:43:33,197 - INFO - Highlighted PDF attached to email
+2025-02-06 07:43:41,832 - INFO - Email sent successfully
+2025-02-06 07:43:41,832 - INFO - Cleaned up highlighted PDF file
+2025-02-06 07:43:41,832 - INFO - Starting gazette scraping process
+2025-02-06 07:43:53,176 - INFO - Successfully scraped gazette data for date: 2025-01-31 00:00:00
+2025-02-06 07:43:53,258 - INFO - Successfully uploaded new gazette to database
+2025-02-06 07:43:53,260 - INFO - Script completed successfully
+2025-02-06 23:01:08,031 - INFO - Starting gazette scraper script
+2025-02-06 23:01:08,031 - INFO - Starting upload_notice process
+2025-02-06 23:01:08,133 - INFO - Starting gazette scraping process
+2025-02-06 23:01:12,344 - INFO - Successfully scraped gazette data for date: 2025-01-31 00:00:00
+2025-02-06 23:01:12,347 - INFO - New gazette found for date: 2025-01-31 00:00:00
+2025-02-06 23:01:12,359 - INFO - Attempting to send email notification
+2025-02-06 23:01:14,054 - INFO - Highlighted PDF attached to email
+2025-02-06 23:01:21,881 - INFO - Email sent successfully
+2025-02-06 23:01:21,881 - INFO - Cleaned up highlighted PDF file
+2025-02-06 23:01:21,881 - INFO - Starting gazette scraping process
+2025-02-06 23:01:26,197 - INFO - Successfully scraped gazette data for date: 2025-01-31 00:00:00
+2025-02-06 23:01:26,245 - INFO - Successfully uploaded new gazette to database
+2025-02-06 23:01:26,245 - INFO - Script completed successfully
+2025-02-08 21:40:46,806 - INFO - Starting gazette scraper script
+2025-02-08 21:40:46,806 - INFO - Starting upload_notice process
+2025-02-08 21:40:46,876 - INFO - Starting gazette scraping process
+2025-02-08 21:40:52,845 - INFO - Successfully scraped gazette data for date: 2025-02-07 00:00:00
+2025-02-08 21:40:52,869 - INFO - New gazette found for date: 2025-02-07 00:00:00
+2025-02-08 21:40:52,881 - INFO - Attempting to send email notification
+2025-02-08 21:40:56,010 - INFO - Email sent successfully
+2025-02-08 21:40:56,010 - INFO - Starting gazette scraping process
+2025-02-08 21:41:01,540 - INFO - Successfully scraped gazette data for date: 2025-02-07 00:00:00
+2025-02-08 21:41:01,695 - INFO - Successfully uploaded new gazette to database
+2025-02-08 21:41:01,695 - INFO - Script completed successfully
+2025-02-08 21:45:12,840 - INFO - Starting gazette scraper script
+2025-02-08 21:45:12,840 - INFO - Starting upload_notice process
+2025-02-08 21:45:12,938 - INFO - Starting gazette scraping process
+2025-02-08 21:45:18,963 - INFO - Successfully scraped gazette data for date: 2025-02-07 00:00:00
+2025-02-08 21:45:18,968 - INFO - New gazette found for date: 2025-02-07 00:00:00
+2025-02-08 21:45:18,979 - INFO - Attempting to send email notification
+2025-02-08 21:45:22,103 - INFO - Email sent successfully
+2025-02-08 21:45:22,103 - INFO - Starting gazette scraping process
+2025-02-08 21:45:27,321 - INFO - Successfully scraped gazette data for date: 2025-02-07 00:00:00
+2025-02-08 21:45:27,401 - INFO - Successfully uploaded new gazette to database
+2025-02-08 21:45:27,401 - INFO - Script completed successfully
+2025-02-12 13:53:08,272 - INFO - Starting gazette scraper script
+2025-02-12 13:53:08,272 - INFO - Starting upload_notice process
+2025-02-12 13:53:08,329 - INFO - Starting gazette scraping process
+2025-02-12 13:53:13,438 - INFO - Successfully scraped gazette data for date: 2025-02-07 00:00:00
+2025-02-12 13:53:13,440 - INFO - New gazette found for date: 2025-02-07 00:00:00
+2025-02-12 13:53:13,453 - INFO - Attempting to send email notification
+2025-02-12 13:53:16,792 - INFO - Email sent successfully
+2025-02-12 13:53:16,793 - INFO - Starting gazette scraping process
+2025-02-12 13:53:21,386 - INFO - Successfully scraped gazette data for date: 2025-02-07 00:00:00
+2025-02-12 13:53:21,456 - INFO - Successfully uploaded new gazette to database
+2025-02-12 13:53:21,456 - INFO - Script completed successfully
+2025-02-18 07:28:13,165 - INFO - Starting gazette scraper script
+2025-02-18 07:28:13,165 - INFO - Starting upload_notice process
+2025-02-18 07:28:13,815 - INFO - Starting gazette scraping process
+2025-02-18 07:28:40,483 - INFO - Successfully scraped gazette data for date: 2025-02-14 00:00:00
+2025-02-18 07:28:40,528 - INFO - New gazette found for date: 2025-02-14 00:00:00
+2025-02-18 07:28:40,572 - INFO - Attempting to send email notification
+2025-02-18 07:28:46,903 - INFO - Highlighted PDF attached to email
+2025-02-18 07:29:36,159 - INFO - Email sent successfully
+2025-02-18 07:29:36,161 - INFO - Cleaned up highlighted PDF file
+2025-02-18 07:29:36,170 - INFO - Starting gazette scraping process
+2025-02-18 07:30:03,173 - INFO - Successfully scraped gazette data for date: 2025-02-14 00:00:00
+2025-02-18 07:30:03,280 - INFO - Successfully uploaded new gazette to database
+2025-02-18 07:30:03,280 - INFO - Script completed successfully
+2025-03-01 19:59:19,627 - INFO - Starting gazette scraper script
+2025-03-01 19:59:19,627 - INFO - Starting upload_notice process
+2025-03-01 19:59:19,987 - INFO - Starting gazette scraping process
+2025-03-01 19:59:24,161 - WARNING - No gazette data retrieved
+2025-03-01 19:59:24,161 - INFO - Script completed successfully
+2025-03-01 20:02:02,119 - INFO - Starting gazette scraper script
+2025-03-01 20:02:02,119 - INFO - Starting upload_notice process
+2025-03-01 20:02:02,256 - INFO - Starting gazette scraping process
+2025-03-01 20:02:08,551 - WARNING - No gazette data retrieved
+2025-03-01 20:02:08,551 - INFO - Script completed successfully
+2025-03-02 18:16:55,578 - INFO - Starting gazette scraper script
+2025-03-02 18:16:55,578 - INFO - Starting upload_notice process
+2025-03-02 18:16:55,614 - INFO - Starting gazette scraping process
+2025-03-02 18:17:00,507 - INFO - Successfully scraped gazette data for date: 2025-02-21 00:00:00
+2025-03-02 18:17:00,507 - ERROR - Error in upload_notice: Date
+2025-03-02 18:17:00,507 - ERROR - Script failed with error: Date
+2025-03-02 18:38:57,298 - INFO - Starting gazette scraper script
+2025-03-02 18:38:57,298 - INFO - Starting upload_notice process
+2025-03-02 18:38:57,314 - INFO - Starting gazette scraping process
+2025-03-02 18:39:02,707 - INFO - Successfully scraped gazette data for date: 2025-02-21 00:00:00
+2025-03-02 18:39:02,707 - ERROR - Error in upload_notice: Date
+2025-03-02 18:39:02,707 - ERROR - Script failed with error: Date
+2025-03-02 19:05:31,444 - INFO - Starting gazette scraper script
+2025-03-02 19:05:31,444 - INFO - Starting upload_notice process
+2025-03-02 19:05:31,494 - INFO - Starting gazette scraping process
+2025-03-02 19:05:35,544 - INFO - Successfully scraped gazette data for date: 2025-02-21 00:00:00
+2025-03-02 19:05:35,567 - INFO - New gazette found for date: 2025-02-21 00:00:00
+2025-03-02 19:05:35,594 - INFO - Attempting to send email notification
+2025-03-02 19:05:36,893 - INFO - Highlighted PDF attached to email
+2025-03-02 19:05:59,161 - INFO - Email sent successfully
+2025-03-02 19:05:59,161 - INFO - Cleaned up highlighted PDF file
+2025-03-02 19:05:59,168 - INFO - Starting gazette scraping process
+2025-03-02 19:06:11,369 - INFO - Successfully scraped gazette data for date: 2025-02-21 00:00:00
+2025-03-02 19:06:11,385 - ERROR - Error in upload_notice: (pymysql.err.OperationalError) (1054, "Unknown column 'Page Link' in 'field list'")
+[SQL: INSERT INTO `gazett notice db` (`Date`, `Issue`, `Title`, `Page Link`, `Download Link`, `EPRA/Energy Act`) VALUES (%(Date)s, %(Issue)s, %(Title)s, %(Page_Link)s, %(Download_Link)s, %(EPRA/Energy_Act)s)]
+[parameters: {'Date': datetime.datetime(2025, 2, 21, 0, 0), 'Issue': 'Weekly Issue', 'Title': 'Kenya Gazette Vol. CXXVII-No. 36', 'Page_Link': 'https://new.kenyalaw.org/akn/ke/officialGazette/2025-02-21/36/eng@2025-02-21', 'Download_Link': 'https://new.kenyalaw.org/akn/ke/officialGazette/2025-02-21/36/eng@2025-02-21/source', 'EPRA/Energy_Act': 'The Energy Act'}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-03-02 19:06:11,385 - ERROR - Script failed with error: (pymysql.err.OperationalError) (1054, "Unknown column 'Page Link' in 'field list'")
+[SQL: INSERT INTO `gazett notice db` (`Date`, `Issue`, `Title`, `Page Link`, `Download Link`, `EPRA/Energy Act`) VALUES (%(Date)s, %(Issue)s, %(Title)s, %(Page_Link)s, %(Download_Link)s, %(EPRA/Energy_Act)s)]
+[parameters: {'Date': datetime.datetime(2025, 2, 21, 0, 0), 'Issue': 'Weekly Issue', 'Title': 'Kenya Gazette Vol. CXXVII-No. 36', 'Page_Link': 'https://new.kenyalaw.org/akn/ke/officialGazette/2025-02-21/36/eng@2025-02-21', 'Download_Link': 'https://new.kenyalaw.org/akn/ke/officialGazette/2025-02-21/36/eng@2025-02-21/source', 'EPRA/Energy_Act': 'The Energy Act'}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-03-04 13:11:34,954 - INFO - Starting gazette scraper script
+2025-03-04 13:11:34,955 - INFO - Starting upload_notice process
+2025-03-04 13:11:35,233 - INFO - Starting gazette scraping process
+2025-03-04 13:12:11,253 - INFO - Successfully scraped gazette data for date: 2025-02-28 00:00:00
+2025-03-04 13:12:11,258 - INFO - New gazette found for date: 2025-02-28 00:00:00
+2025-03-04 13:12:11,264 - INFO - Attempting to send email notification
+2025-03-04 13:12:13,339 - INFO - Highlighted PDF attached to email
+2025-03-04 13:12:23,351 - INFO - Email sent successfully
+2025-03-04 13:12:23,352 - INFO - Cleaned up highlighted PDF file
+2025-03-04 13:12:23,352 - INFO - Starting gazette scraping process
+2025-03-04 13:12:27,223 - INFO - Successfully scraped gazette data for date: 2025-02-28 00:00:00
+2025-03-04 13:12:27,244 - ERROR - Error in upload_notice: (psycopg2.errors.UndefinedColumn) column "PageLink" of relation "gazett_notice_db" does not exist
+LINE 1: ... INTO gazett_notice_db ("Date", "Issue", "Title", "PageLink"...
+                                                             ^
+
+[SQL: INSERT INTO gazett_notice_db ("Date", "Issue", "Title", "PageLink", "DownloadLink", "EPRA_EnergyAct") VALUES (%(Date)s, %(Issue)s, %(Title)s, %(PageLink)s, %(DownloadLink)s, %(EPRA_EnergyAct)s)]
+[parameters: {'Date': datetime.datetime(2025, 2, 28, 0, 0), 'Issue': 'Weekly Issue', 'Title': 'Kenya Gazette Vol. CXXVII-No. 42', 'PageLink': 'https://new.kenyalaw.org/akn/ke/officialGazette/2025-02-28/42/eng@2025-02-28', 'DownloadLink': 'https://new.kenyalaw.org/akn/ke/officialGazette/2025-02-28/42/eng@2025-02-28/source', 'EPRA_EnergyAct': 'The Energy Act'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-03-04 13:12:27,245 - ERROR - Script failed with error: (psycopg2.errors.UndefinedColumn) column "PageLink" of relation "gazett_notice_db" does not exist
+LINE 1: ... INTO gazett_notice_db ("Date", "Issue", "Title", "PageLink"...
+                                                             ^
+
+[SQL: INSERT INTO gazett_notice_db ("Date", "Issue", "Title", "PageLink", "DownloadLink", "EPRA_EnergyAct") VALUES (%(Date)s, %(Issue)s, %(Title)s, %(PageLink)s, %(DownloadLink)s, %(EPRA_EnergyAct)s)]
+[parameters: {'Date': datetime.datetime(2025, 2, 28, 0, 0), 'Issue': 'Weekly Issue', 'Title': 'Kenya Gazette Vol. CXXVII-No. 42', 'PageLink': 'https://new.kenyalaw.org/akn/ke/officialGazette/2025-02-28/42/eng@2025-02-28', 'DownloadLink': 'https://new.kenyalaw.org/akn/ke/officialGazette/2025-02-28/42/eng@2025-02-28/source', 'EPRA_EnergyAct': 'The Energy Act'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2025-03-04 13:23:13,765 - INFO - Starting gazette scraper script
+2025-03-04 13:23:13,765 - INFO - Starting upload_notice process
+2025-03-04 13:23:13,936 - INFO - Starting gazette scraping process
+2025-03-04 13:23:20,430 - INFO - Successfully scraped gazette data for date: 2025-02-28 00:00:00
+2025-03-04 13:23:20,435 - INFO - New gazette found for date: 2025-02-28 00:00:00
+2025-03-04 13:23:20,436 - ERROR - Error in upload_notice: 'PageLink'
+2025-03-04 13:23:20,436 - ERROR - Script failed with error: 'PageLink'
+2025-03-04 13:24:33,567 - INFO - Starting gazette scraper script
+2025-03-04 13:24:33,567 - INFO - Starting upload_notice process
+2025-03-04 13:24:33,737 - INFO - Starting gazette scraping process
+2025-03-04 13:24:38,935 - INFO - Successfully scraped gazette data for date: 2025-02-28 00:00:00
+2025-03-04 13:24:38,941 - INFO - New gazette found for date: 2025-02-28 00:00:00
+2025-03-04 13:24:38,945 - INFO - Attempting to send email notification
+2025-03-04 13:24:40,266 - INFO - Highlighted PDF attached to email
+2025-03-04 13:24:49,897 - INFO - Email sent successfully
+2025-03-04 13:24:49,899 - INFO - Cleaned up highlighted PDF file
+2025-03-04 13:24:49,899 - INFO - Starting gazette scraping process
+2025-03-04 13:24:55,141 - INFO - Successfully scraped gazette data for date: 2025-02-28 00:00:00
+2025-03-04 13:24:55,168 - INFO - Successfully uploaded new gazette to database
+2025-03-04 13:24:55,168 - INFO - Script completed successfully
+2025-03-04 13:44:18,311 - INFO - Starting gazette scraper script
+2025-03-04 13:44:18,311 - INFO - Starting upload_notice process
+2025-03-04 13:44:18,478 - INFO - Starting gazette scraping process
+2025-03-04 13:44:22,292 - INFO - Successfully scraped gazette data for date: 2025-02-28 00:00:00
+2025-03-04 13:44:22,292 - INFO - New gazette found for date: 2025-02-28 00:00:00
+2025-03-04 13:44:22,292 - INFO - Attempting to send email notification
+2025-03-04 13:44:27,819 - INFO - Highlighted PDF attached to email
+2025-03-04 13:44:37,543 - INFO - Email sent successfully
+2025-03-04 13:44:37,559 - INFO - Cleaned up highlighted PDF file
+2025-03-04 13:44:37,559 - INFO - Starting gazette scraping process
+2025-03-04 13:44:41,349 - INFO - Successfully scraped gazette data for date: 2025-02-28 00:00:00
+2025-03-04 13:44:41,362 - INFO - Successfully uploaded new gazette to database
+2025-03-04 13:44:41,362 - INFO - Script completed successfully
